@@ -7,4 +7,4 @@
 # Minor Projects
 | Project | Description |
 | --- | --- |
-| gops | Simple TUI application for viewing Windows Processes |
+| [gops](https://github.com/HackLike-co/gops) | Simple TUI application for viewing Windows Processes |
