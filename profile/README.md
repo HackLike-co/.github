@@ -1,4 +1,5 @@
 # Major Projects
+These are HackLike's flagship products. PandoraEDR is 100% open-source while BingoC2 and Cloak have enterprise versions.
 | Project | Description | Version | Status |
 | --- | --- | --- | --- |
 | <a href="https://github.com/HackLike-co/PandoraEdr"> <img src="https://github.com/HackLike-co/.github/blob/main/Images/Pandora%20EDR%20Logo%20wText.png?raw=true" width="250"/> </a> | Test your malware against an open-source EDR | n/a | In Development |
