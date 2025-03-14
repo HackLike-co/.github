@@ -1,6 +1,3 @@
-# What is HackLike?
-HackLike is an LLC to get around a loop hole in my employer's wording so they don't own my code :)
-
 # Major Projects
 These are HackLike's flagship products.
 | Project | Description | Release Date / Version |
