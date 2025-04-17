@@ -16,4 +16,5 @@
 </details>
 
 # Community
-[Discord](https://discord.gg/qNzsmPC3Kr)
+- [Blog](https://blog.hacklike.co/)
+- [Discord](https://discord.gg/qNzsmPC3Kr)
