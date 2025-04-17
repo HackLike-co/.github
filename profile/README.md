@@ -15,3 +15,5 @@
   
 </details>
 
+# Community
+[Discord](https://discord.gg/qNzsmPC3Kr)
